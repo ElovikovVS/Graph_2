@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1495434681 source:d:\cppprojects\graph2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<windows.h>
+	<wincon.h>
+
